@@ -1,2 +1,2 @@
 # algoritmos_2019
-yeey, lets eat pudding 
+aulas de algoritmos catalogadas no ano de 2019
