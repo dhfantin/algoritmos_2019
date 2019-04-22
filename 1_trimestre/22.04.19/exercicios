@@ -1,0 +1,7 @@
+1) faça um algoritmo que leia o nome, tres notas e o numero de faltas de um aluno. e escreva a situação dele sabendo que:
+	aprovado: M>=7.0, F<7
+	recuperação: M<7.0, F<10
+	reprovado: M<7.0, F>=10
+2) faça um algoritmo que leia dois numeros inteiros e escreva o maior deles
+
+3) faça um algoritmo que leia tres numeros inteiros e escreva o maior deles
