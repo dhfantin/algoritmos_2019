@@ -16,4 +16,4 @@ PESOIDEAL = peso/(altura^2) <= 20
 7 - Faça um algoritmo que implemente uma calculadora com as 4 operações básicas (+, -, * , /), para isso tem que ler dois 
 operandos e um operador. 
 
-8 - Faça um algoritm que leia um ano e escreva se é bissexto ou não.
+8 - Faça um algoritmo que leia um ano e escreva se é bissexto ou não.
