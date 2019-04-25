@@ -4,7 +4,7 @@ programa
 	funcao inicio()
 	{
 
-	inteiro n1,n2,nn1,nn2
+	inteiro n1,n2,nn1
 
 		escreva("digite um número: ")
 			leia(n1)
@@ -12,10 +12,9 @@ programa
 			leia(n2)
 
 			nn1= n1
-			nn2= n2
-
-			n1= nn2
+			n1= n2
 			n2= nn1
+			
 
 			escreva("número um: ",n1,"\nnúmero dois: ",n2)
 	}
