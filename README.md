@@ -1,2 +1,1 @@
-#algoritmos feitos em 
-aula
+#algoritmos feitos em aula
