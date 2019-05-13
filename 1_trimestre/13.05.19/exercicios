@@ -1,0 +1,35 @@
+Exercícios Algoritmos Condicionais
+
+1 - Zezinho comprou um microcomputador para controlar o rendimento diário de
+seu trabalho como pescador. Toda vez que ele traz um peso de peixes maior que
+o estabelecido pelo regulamento de pesca do estado de Santa Catarina (50
+quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. Zezinho precisa
+que você faça um algoritmo que leia o peso dos peixes e verifique se há excesso.
+Se houver, o excesso e o valor da multa que Zezinho deverá pagar. Caso
+contrário mostrar uma mensagem que ele não deve pagar nada.
+
+2 - Faça um algoritmo que receba o valor do salário de uma pessoa e o valor de um
+financiamento pretendido. Caso o financiamento seja menor ou igual a 5 vezes o
+salário da pessoa, o algoritmo deverá escrever “Financiamento Concedido";
+senão, ele deverá escrever "Financiamento Negado". Independente de conceder
+ou não o financiamento, o algoritmo escreverá depois a frase "Obrigado por nos
+consultar."
+
+3 - O cardápio de uma lanchonete é o seguinte:
+Especificação 		Preço unitário
+100 Cachorro quente 	 8,10
+101 Bauru simples 	19,30
+102 Bauru c/ovo 	21,50
+103 Hamburger 		18,10
+104 Cheeseburger 	15,30
+105 Refrigerante 	 5,00
+Escrever um algoritmo que leia o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche.
+Considere que a cada execução somente será calculado um item.
+
+4 - Você viajou para os Estados Unidos e descobriu que lá a unidade de medida de
+temperatura é diferente da do Brasil. Para não ter que acessar um serviço na internet
+a todo o momento, nem fazer os cálculos manualmente, faça um algoritmo que
+converte a temperatura, dada uma unidade de medida e uma temperatura. Ou seja, se
+a data for informada em Celsius o algoritmo deve fornecer a temperatura em
+Fahrenheit, já se a temperatura for fornecida em Fahrenheit, o resultado deve ser em
+graus Celsius.
