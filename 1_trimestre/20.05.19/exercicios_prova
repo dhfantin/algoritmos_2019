@@ -1,0 +1,25 @@
+ o Teste de Mesa do Algoritmo a seguir: 
+programa {
+   funcao inicio() {
+     inteiro a, b, c
+     leia(a,b)   
+     c=10   
+     se (b < a+2*c) {      
+        escreva(a\2)      
+        b=b+15   
+      }
+     senao {
+        a=34   
+     }   
+     c=c+b   
+     escreva(10-c)   
+     a=a+c   
+     escreva(a,b,c) 
+  }
+}
+
+ 
+2 – Faça um algoritmo que leia um número e escreva a soma dos seus algarismos somente se o número for menor que 1.000
+
+3 – Faça um algoritmo que leia uma data (dia, mês) e escreva quantos dias já transcorreram de 01/01 do ano atual até data lida.
+ 
