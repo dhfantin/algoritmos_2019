@@ -1,0 +1,11 @@
+LISTA EXERCÍCIOS CONDICIONAIS
+
+1 - Faça um algoritmo que leia 40 números e escreva quantos estão no intervalo entre 100-200 e quantos estão fora desse intervalo.
+
+2 - Faça um algoritmo que leia um número N e escreva a soma de 1 até N.
+
+3 - Faça um algoritmo que leia um número e escreva seu fatorial.
+
+4 - Faça um algoritmo que leia X e Y e escreva X na potência Y sem usar a função potencia.
+
+5 - Faça um algoritmo que leia caracteres até que seja digitado * e escreva quantas vogais foram digitadas.
