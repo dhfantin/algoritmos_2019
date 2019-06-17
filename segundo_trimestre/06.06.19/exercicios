@@ -8,4 +8,5 @@
 		105-Refri-5,00
 		106-fim
 
-2)faça um algoritmo que leia para N clientes o total do valor gasto. escvreva o valor médio gasto, a quantidade de valores a baixo de R$100 e os valores acima de R$300
+2)faça um algoritmo que leia para N clientes o total do valor gasto. escvreva o valor médio gasto, a quantidade de valores abaixo
+de R$100 e os valores acima de R$300
