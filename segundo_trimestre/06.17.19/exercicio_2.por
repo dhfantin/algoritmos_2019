@@ -17,7 +17,7 @@ programa
 				}
 			cont= cont+1
 			
-			}enquanto(cont<500)
+			}enquanto(cont<=500)
 
 			escreva("A média dos números multiplos de 5 entre 100 e 500 é: ",mult/multcont)
 	}
