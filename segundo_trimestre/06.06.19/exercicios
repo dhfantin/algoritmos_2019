@@ -1,6 +1,6 @@
 1) Faça o seguinte menu com o laço de repetição:
     MENU
-	  100-cachorro quente-8,10
+	        100-cachorro quente-8,10
 		101-Bauru simples-19,30
 		102-Bauru c/ovo-21,50
 		103-Hamburguer-18,10
