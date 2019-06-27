@@ -1,0 +1,9 @@
+1) faça um algoritmo que leia números até que seja digitado -1. Escreva a média dos números (sem o -1).
+
+2) faça um algoritmo que leia opções e qauntidade conforme menu e escreva o valor a pagar (com o enquanto)
+    MENU:
+    1- cachorro quente 8,90
+    2- torrada 7,50
+    3- pizza 15,30
+    4- pastel 5,10
+    5- sair
