@@ -1,0 +1,19 @@
+Exercícios Laço Repetição - Enquanto
+
+1 - Faça um algoritmo que leia números até que seja digitado -1, escreva a média dos positivos.
+
+2 - Faça um algoritmo que leia um número e escreva os seus divisores.
+
+3 - Faça um algoritmo que leia a idade de 15 pessoas e escreva:
+a) a quantidade de pessoas em cada faixa etária
+b) o percentual de pessoas na 1a faixa
+1a Faixa - até 15 anos
+2a Faixa - de 16 a 30 anos
+3a Faixa - acima de 30 anos
+
+4 - Faça um algoritmo que leia o nome e a idade de pessoas até que seja digitado "XXXX" para o nome. Escreva o nome da pessoa mais nova.
+
+5 - Faça um algoritmo que leia N e escreva a soma dos seguintes termos da série:
+S = 1  +   1   +  1   +   .....  + 1
+   ___    ___ 	____		  ___
+    2      3      4                N 
