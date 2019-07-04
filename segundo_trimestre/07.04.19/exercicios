@@ -2,7 +2,7 @@ Exercícios Laço Repetição - ENQUANTO
 
 1 - Faça um algoritmo que leia números positivos e escreva quantos números foram lidos.
 
-2 - Faça um algoritmo que um número e escreva "É PRIMO" ou "NÃO É PRIMO" conforme for o caso.
+2 - Faça um algoritmo que leia um número e escreva "É PRIMO" ou "NÃO É PRIMO" conforme for o caso.
 
 3 - Faça um algoritmo que leia o valor gasto por N clientes e o tipo de cada cliente. A empresa dá 5% de desconto para clientes especiais (e) e 2% para os demais. Escreva:
 a) quanto a empresa deu de descontos
