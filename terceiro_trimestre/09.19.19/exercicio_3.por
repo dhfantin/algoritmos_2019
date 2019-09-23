@@ -15,7 +15,7 @@ programa
 
 		para(I=0;I<20;I++){
 
-			se(V[I]== "a" ou V[I]== "e" ou V[I]== "i" ou V[I]== "o" ou V[I]== "u" ou V[I]== "A" ou V[I]== "E" ou V[I]== "I" ou V[I]== "O" ou V[I]== "U"){
+			se(V[I]== 'a'ou V[I]== 'e' ou V[I]== 'i' ou V[I]== 'o' ou V[I]== 'u' ou V[I]== 'A' ou V[I]== 'E' ou V[I]== 'I' ou V[I]== 'O' ou V[I]== 'U'){
 				
 				escreva("Posição ",I," possui vogal: ''",V[I],"''\n")
 				
