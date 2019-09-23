@@ -1,4 +1,4 @@
 1) faça um algoritmo que leia o vetor[50] inteiro e escreva a média dos elementos multiplos de 4 existentes no vetor
-2) faça um algoritmo que leia o vetor[20] inteiro e troque o primeiro elemento pelo decimo primeiro, segundo pelo decimo segundo e assim por diante. escreva um vetor antes e depois de ser alterado (não pode usar vetor auxiliar).
+2) faça um algoritmo que leia o vetor[19] inteiro e troque o primeiro elemento pelo decimo primeiro, segundo pelo decimo segundo e assim por diante. escreva um vetor antes e depois de ser alterado (não pode usar vetor auxiliar).
 3) faça um algortimo que leia 2 vetores [40] cadeia contendo o nome dos alunos. escreva o nome do aluno que tenha a menor média.
 4) faça um algoritmo um vetor [40] inteiro e inverta-o. (sem vetor auxiliar)
