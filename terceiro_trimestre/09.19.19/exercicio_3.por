@@ -3,7 +3,7 @@ programa
 	//3) faça um algotitmo que leia o vetor [20] cadeia (caracteres) e escreva as posições que tem vogais
 	funcao inicio()
 	{
-		caractere V[20]
+		caracter V[20]
 		inteiro I
 
 
