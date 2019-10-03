@@ -1,6 +1,6 @@
 programa
 {
-	// 1) faça um algoritmo que leia uma matriz [4][6] inteira e escreva os elementos impares da matriz
+	// 1) faça um algoritmo que leia uma matriz [2][4] inteira e escreva os elementos impares da matriz
 	funcao inicio()
 	{
 		inteiro Matriz[2][4], I, II
