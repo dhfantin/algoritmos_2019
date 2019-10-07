@@ -1,0 +1,4 @@
+1) faça um algoritmo que leia uma matriz [5][7] e escreva a media dos multiplos de 5 existentes na linha 3 da matriz
+2) faça um algoritmo que leia uma matriz [6][8] e escreva quantos elementos positivos existem nas colunas impares da matriz
+3) faça um algoritmo que leia uma matriz [4][4] e escreva os elementos que estão na diagonal principal
+4) faça um algoritmo que leia uma matriz [5][5] e escreva a média dos elementos da diagonal secundaria
