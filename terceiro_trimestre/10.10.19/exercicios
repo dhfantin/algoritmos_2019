@@ -1,1 +1,5 @@
-
+1) Faça um algoritmo que leia uma matriz 6x5 e escreva quantas vezes o número 7 aparece.
+2) Faça um algoritmo que leia uma matriz 4x8 e escreva letras 'A' tem em cada linha.
+3) Façca um algoritmo que leia uma matriz 5x4 e escreva a média dos elementos de cada coluna da matriz.
+4) Faça um algoritmo que leia uma matriz 7x3 contendo a média dos alunos e escreva a menor e a maior média.
+5) Faça um algoritmo que leia uma matriz 5x6 e escreva a matriz somente se ela possui a maioria dos elementos negativos.
