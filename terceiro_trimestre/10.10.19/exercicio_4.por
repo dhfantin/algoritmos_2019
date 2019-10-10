@@ -6,7 +6,7 @@ programa
 		inteiro Matriz[7][3], I, II, A1,A2
 
 		A1= 0
-		A2= 0
+		A2= 10
 		para(I=0;I<7;I++){
 			para(II=0;II<3;II++){
 
