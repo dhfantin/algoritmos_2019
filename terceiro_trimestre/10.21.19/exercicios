@@ -1,1 +1,2 @@
 1) faça um algoritmo que leia um vetor [12] de inteiros e gere uma matriz [3][4] com os elementos impares do vetor (sem pular posiçoes)
+2) faça um algoritmo que faça a multiplicação da soma da linha de uma matriz[3][3] pela soma da coluna de uma outra matriz[3][3]
