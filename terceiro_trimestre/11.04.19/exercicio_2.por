@@ -27,7 +27,7 @@ programa
 		escreva("Digite o número de alunos: ")
 			leia(nmralunos)
 
-		para(inteiro I= 1;I<=nmralunos;I++)
+		para(inteiro I= 1;I<nmralunos;I++)
 		{
 			escreva("Digite a primeira nota do aluno nº ",I,": ")
 				leia(n1)
