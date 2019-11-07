@@ -1,0 +1,33 @@
+//1) faça um algoritmo que contenha duas sub-rotinas, aprimeira ira ler um vetor de dez poziçoes de inteiros,
+//e a segunda irá receber o valor lido e calcular a soma de seus elementos
+
+programa
+{
+	inteiro soma
+	funcao inteiro LeVetor10()
+	{
+		inteiro V[10]
+		para(inteiro I= 0; I<10; I++)
+		{
+			escreva("Digite o valor da ",I,"º posição do vetor: ")
+				leia(V[I])
+		}
+		
+	}
+	funcao inteiro SomaVetor(inteiro V[10])
+	{
+		soma= 0
+		LeVetor10()
+		para(inteiro I= 0; I<10; I++)
+		{
+			soma= soma+V[I]
+		}
+
+		retorne soma
+		
+	}
+	funcao inicio()
+	{
+		escreva("Soma dos valores: ",SomaVetor(LeVetor10()))
+	}
+}
