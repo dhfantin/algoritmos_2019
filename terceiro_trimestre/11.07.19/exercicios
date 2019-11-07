@@ -1,1 +1,5 @@
+1) faça um algoritmo que contenha duas sub-rotinas, aprimeira ira ler um vetor de dez poziçoes de inteiros,
+e a segunda irá receber o valor lido e calcular a soma de seus elementos
 
+2) faça um algoritmo que contenha três sub-rotinas, uma irá ler um vetor de 10 posições, 
+a segunda irá cacular a média dos elementos pares do vetor e a terceira irá verificar se o elemnto é par ou impar
