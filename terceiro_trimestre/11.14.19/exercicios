@@ -1,1 +1,3 @@
-1)
+1) faça um algoritmo que contenha 4 subrotinas, aprimeira irá ler uma matriz inteira 3x4, a segunda subrotina ira ler um vetor inteiro de 12 posições, a terceira subrotina ira receber a matriz e o vetor e irá escrever a matriz somente se se todos os elementos do vetor existirem na matriz (quarta subrotina)
+
+2) faça um algoritmo que contenha 4 subrotinas, a primeira irá ler um vetor inteiro de 12 posições, a segunda irá calcular o fatorial de um número, a terceira subrotina irá preencher a matriz com cada elemento do vetor, e a quarta irá escrever a matriz gerada
